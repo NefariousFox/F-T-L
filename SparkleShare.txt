@@ -1,9 +1,1 @@
-Congratulations, you've successfully created a SparkleShare repository!
-
-Any files you add or change in this folder will be automatically synced to 
-ssh://git@github.com/NefariousFox/F-T-L and everyone connected to it.
-
-SparkleShare is an Open Source software program that helps people collaborate and 
-share files. If you like what we do, consider buying us a beer: http://www.sparkleshare.org/
-
-Have fun! :)
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAvoQrGq2XLVXjBOem4hv7z493dmCLtUIbXxDI0ozFMpo6tmclXbx4LFpI1Sd+O72VAeJBGDWCQ3fXJxgRczS/5fJaht2/D0P52s/mjRWhKQbJQJ+CaPjrQEVTCXD/0k/dN0e/n8eFDe3Y9s7kugKhtYOeQyx9a3KtUYzElJMaTPPe9mGZ84kH3HylAZAy295ItuY8zfyW8t/F9pUpKdt6ducQ7GXIBzvAp2cEdVfxiHXiMcDPozWLoTMZdma3gimjaofyeGKMlmHYnx9B6ZZgXHQzF2BIoU2w9Rvb8sJF+X+cDmK1wqcUdjdKkveFlQZSPyCU0moGnkIobNrX1eY26Q== 7HG65Hl
